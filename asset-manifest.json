@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactAmazonClone/static/css/main.6983cc10.chunk.css",
+    "main.js": "/reactAmazonClone/static/js/main.46fa7dad.chunk.js",
+    "main.js.map": "/reactAmazonClone/static/js/main.46fa7dad.chunk.js.map",
+    "runtime-main.js": "/reactAmazonClone/static/js/runtime-main.12d2a51e.js",
+    "runtime-main.js.map": "/reactAmazonClone/static/js/runtime-main.12d2a51e.js.map",
+    "static/js/2.c6a354da.chunk.js": "/reactAmazonClone/static/js/2.c6a354da.chunk.js",
+    "static/js/2.c6a354da.chunk.js.map": "/reactAmazonClone/static/js/2.c6a354da.chunk.js.map",
+    "index.html": "/reactAmazonClone/index.html",
+    "precache-manifest.54955b7270592371827702e9491657bd.js": "/reactAmazonClone/precache-manifest.54955b7270592371827702e9491657bd.js",
+    "service-worker.js": "/reactAmazonClone/service-worker.js",
+    "static/css/main.6983cc10.chunk.css.map": "/reactAmazonClone/static/css/main.6983cc10.chunk.css.map",
+    "static/js/2.c6a354da.chunk.js.LICENSE.txt": "/reactAmazonClone/static/js/2.c6a354da.chunk.js.LICENSE.txt",
+    "static/media/amazon.png": "/reactAmazonClone/static/media/amazon.d86ccbaf.png",
+    "static/media/prime.png": "/reactAmazonClone/static/media/prime.0bbad6c3.png",
+    "static/media/primeIndependence.jpg": "/reactAmazonClone/static/media/primeIndependence.4ec08347.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12d2a51e.js",
+    "static/js/2.c6a354da.chunk.js",
+    "static/css/main.6983cc10.chunk.css",
+    "static/js/main.46fa7dad.chunk.js"
+  ]
+}
