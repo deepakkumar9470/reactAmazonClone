@@ -1,0 +1,13 @@
+.head{
+    font-size: 25px;
+    color: rgb(253, 219, 68);
+    align-items: center;
+}
+input[type="radio"]{
+    display: none;
+}
+
+.star{
+    cursor: pointer;
+    transition: 200ms;
+}
